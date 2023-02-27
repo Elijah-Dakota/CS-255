@@ -1,11 +1,11 @@
-# CS-255
-<b>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?<br></br></b>
+	# CS-255
+<b>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? <br></br></b>
   DriverPass wants to create a system to allow students to train for their driving tests at the DMV, they can take online classes, take practice tests, and have access to on-the-road driving lessons if needed. DriverPass needs a system to handle the reservations for in person driving lessons, test progression, and store information about the student such as their name, address, photo, notes, etc. <br></br>
-<b>What did you do particularly well?<br></br></b>
-  I think that I did a good job at outlining the required funtionality, requirements both funtional and non-functional, and the objectives of the system.<br></br>
-<b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?<br></br></b>
-  I would revised my UML diagram to include methods and required relationships in their entireity, however I kept the diagrams as simple as possible this project.<br></br>
-<b>How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?<br></br></b>
-  I took the users needs and models digrams and requirements around them such as how to impliment a user log in. It is important to make sure to follow the clients hneeds to make sure the system is built for their use case. It is important though at times to guide a client because they may not entireley know what they need or want. Overall as developers we are resopinsible for taking the clients problem and solving it within the ciontraints they give us.<br></br>
-<b>How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?<br></br></b>
-I apporach designing software from an end user perspective, I poersonally cannot stand when an applicatiopn or a site that is not user freindly or designed with the end user in mind. Developers sometimes get carried away with cramming features and complicated menus into the design of an application a great example of this is the Adobe CC suite, they have so many context menus and options it makes it extremely hard to learn everything about the sfowatre they present to the end user. 
+<b>What did you do particularly well? <br></br></b>
+  I think that I did a good job at outlining the required functionality, requirements both functional and non-functional, and the objectives of the system. <br></br>
+<b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? <br></br></b>
+  I would revise my UML diagram to include methods and required relationships in their entirety, however I kept the diagrams as simple as possible this project. <br></br>
+<b>How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? <br></br></b>
+  I took the users’ needs and models diagrams and requirements around them such as how to implement a user log in. It is important to make sure to follow the clients needs to make sure the system is built for their use case. It is important though at times to guide a client because they may not entirely know what they need or want. Overall, as developers we are responsible for taking the clients problem and solving it within the constraints, they give us. <br></br>
+<b>How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? <br></br></b>
+I approach designing software from an end user perspective, I personally cannot stand when an application or a site that is not user friendly or designed with the end user in mind. Developers sometimes get carried away with cramming features and complicated menus into the design of an application a great example of this is the Adobe CC suite, they have so many context menus and options it makes it extremely hard to learn everything about the software they present to the end user.
